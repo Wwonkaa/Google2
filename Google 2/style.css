@@ -1,0 +1,150 @@
+
+ .headnavbar{
+
+    width: 90px;
+    border: 100px;
+    
+    border-bottom: 10px;
+    border-top: 10px;
+    border-color: antiquewhite;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headnavbar2{
+
+    width: 190px;
+    float:right ;
+    margin-top: -40px;
+}
+.headnavbar2 *{
+
+    margin: 2px;
+}
+.headnavbar2 span{
+
+    float: left;
+    margin-top: 13px;
+    margin-right: 6px ;
+    
+}
+#buttonsi{
+
+    border-color:#099ff0;
+    background-color:#099ff0;;
+    color:white;
+    height: 26px;
+    float:right;
+    margin-top: 10px;
+    box-shadow: 10px;
+}
+.headnavbar2 a{
+
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.googlediv{
+    letter-spacing: -5px;
+    
+    font-size: 128px;
+    height: 92px;
+    width: 550px;
+    margin: 180px 35% ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.googlediv span{
+
+    float: left;
+    margin-right: 2px;
+    margin-top: -30px;
+}
+
+.search{
+
+    width: 512px;
+    height: 30px;
+    float:right ;
+    border-color:ghostwhite;
+    margin-top: -130px;
+    margin-right: 460px;
+    border-radius: 10px;
+    box-shadow: 0 0 1px ghostwhite;
+
+
+
+}
+#micbutton{
+
+    position: absolute;
+    float: left;
+    margin-top: -125px;
+    margin-left: 65%;
+    width:20px; height: 20px;
+    
+}
+
+.searchbtn{
+    align-items: center;
+    float: right;
+    margin-right: 500px;
+    margin-top: -90px;
+
+}
+.searchbtn>*{
+
+    font-size: 12px;
+    margin: 10px;
+    width: 200px;
+    border:solid mintcream;
+    border-radius: 4px;
+    box-shadow:2px 2px grey;
+    background-color: ghostwhite;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.searchbtn :hover{
+    
+    border:transparent black; 
+    box-shadow: 1px 1px black;
+
+}
+
+.fr{
+    float: right;
+}
+
+.fl{
+    float: left;
+}
+
+.footer{
+    background-color: lightgray;
+    width: 100%;
+    height: 65px;
+    margin-top: 430px;
+    box-shadow: 1px 1px whitesmoke;
+    text-align: center;
+    padding: 0;
+
+
+}
+
+.footer>*{
+
+    text-decoration: none;
+    margin: 10px;
+    padding-top: 18px;
+    color: lightslategrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.karbon{
+
+    margin-right: 200px;
+
+}
